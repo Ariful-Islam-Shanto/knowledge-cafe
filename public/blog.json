@@ -1,0 +1,69 @@
+[
+    {
+      "id": 101,
+      "cover": "https://images.unsplash.com/photo-1606612658492-f479525ae94c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
+      "title": "The Blockbuster",
+      "description": "A thrilling action movie that keeps you on the edge of your seat.",
+      "author": "Christina Perry",
+      "author_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "posted_date": "2023-09-15",
+      "hashtags": ["film", "cinema", "entertainment"],
+      "readingTime": "5"
+    },
+    {
+      "id": 201,
+      "cover": "https://images.unsplash.com/photo-1542010589005-d1eacc3918f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1792&q=80",
+      "title": "Delicious Pasta",
+      "description": "Learn how to make the most mouthwatering pasta dish ever.",
+      "author": "Chef Cook",
+      "author_image" : "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "posted_date": "2023-09-10",
+      "hashtags": ["cooking", "recipes", "foodie"],
+      "readingTime": "20"
+    },
+    {
+      "id": 301,
+      "cover": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
+      "title": "Adventures Abroad",
+      "description": "Explore breathtaking destinations and embark on unforgettable journeys.",
+      "author": "Jackson Crusho",
+      "author_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "posted_date": "2023-09-08",
+      "hashtags": ["travel", "adventure", "explore"],
+      "readingTime": "5"
+    },
+    {
+      "id": 401,
+      "cover": "https://images.unsplash.com/photo-1580943942792-63264a446b45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Gadget Review",
+      "description": "In-depth analysis of the latest tech gadgets and their performance.",
+      "author": "Tech Guru",
+      "author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "posted_date": "2023-09-20",
+      "hashtags": ["tech", "gadgets", "review"],
+      "readingTime": "15"
+    },
+    {
+      "id": 501,
+      "cover": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Healthy Living Tips",
+      "description": "Discover practical tips for a healthier and more active lifestyle.",
+      "author": "Albert Dera",
+      "author_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=600&q=60",
+      "posted_date": "2023-09-05",
+      "hashtags": ["health", "fitness", "wellness"],
+      "readingTime": "30"
+    },
+    {
+      "id": 601,
+      "cover": "https://images.unsplash.com/photo-1525916801717-9405b53a3246?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Fashion Forward",
+      "description": "Stay updated on the latest fashion trends and style inspiration.",
+      "author": "Alexander Hipp",
+      "author_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
+      "posted_date": "2023-09-18",
+      "hashtags": ["fashion", "style", "trends"],
+      "readingTime": "10"
+    }
+  ]
+  
